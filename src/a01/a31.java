@@ -1,15 +1,15 @@
 package a01;
 
-//31¹ø
+//31ë²ˆ
 
 public class a31 {
 	
-	public enum FRUIT{ //enumÀº ¿­°ÅÅ¸ÀÔÀÌ´Ù.
+	public enum FRUIT{ //enumì€ ì—´ê±°íƒ€ì…ì´ë‹¤.
 		APPLE,BANANA,MANGO
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		FRUIT pear = FRUIT.APPLE; //enumÀº ÀÚ·áÇüÀ¸·Î »ç¿ëÇÒ ¼ö ÀÖÀ¸¸é enum »ó¼ö °ªÀ» ÀÌ·± ¹æ½ÄÀ¸·Î ÃÊ±âÈ¯ ÇÑ´Ù.
+		FRUIT pear = FRUIT.APPLE; //enumì€ ìë£Œí˜•ìœ¼ë¡œ ì‚¬ìš©í•  ìˆ˜ ìˆìœ¼ë©´ enum ìƒìˆ˜ ê°’ì„ ì´ëŸ° ë°©ì‹ìœ¼ë¡œ ì´ˆê¸°í™” í•œë‹¤.
 		FRUIT pear2 = FRUIT.MANGO;
 		System.out.println(pear);
 		System.out.println(pear.name());
