@@ -1,6 +1,6 @@
 package a01;
 
-//29
+//29ë²ˆ
 
 public class a29 {
 
@@ -13,6 +13,6 @@ public class a29 {
 		// TODO Auto-generated method stub
 		int days = 1200;
 		double phyval = GetVal(days,PHYSICAL,100);
-		System.out.printf("³ªÀÇ ½ÅÃ¼Áö¼ö %1$.2f ÀÔ´Ï´Ù.\n",phyval); //$1Àº Ã¹¹øÂ° ÀÎÀÚ¸¦ ÁöÄªÇÑ´Ù.	
+		System.out.printf("ë‚˜ì˜ ì‹ ì²´ì§€ìˆ˜ %1$.2f ì…ë‹ˆë‹¤.\n",phyval); //$1ì€ ì²«ë²ˆì§¸ ì¸ìë¥¼ ì§€ì¹­í•œë‹¤.	
 	}
 }
