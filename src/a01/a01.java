@@ -1,6 +1,6 @@
 package a01;
 
-//28¹ø
+//28ë²ˆ
 
 public class a01 {
 
@@ -10,7 +10,7 @@ public class a01 {
 		int index = PHYSICAL;
 		int days = 1200;
 		double phyval = 100 * Math.sin((days%index) * 2 * Math.PI / index);
-		System.out.printf("³ªÀÇ ½ÅÃ¼Áö¼ö %1$.2f ÀÔ´Ï´Ù.",phyval); //$1Àº Ã¹¹øÂ° ÀÎÀÚ¸¦ ÁöÄªÇÑ´Ù.
+		System.out.printf("ë‚˜ì˜ ì‹ ì²´ì§€ìˆ˜ %1$.2f ì…ë‹ˆë‹¤.",phyval); //$1ì€ ì²«ë²ˆì§¸ ì¸ìë¥¼ ì§€ì¹­í•œë‹¤.
 		
 	}
 }
