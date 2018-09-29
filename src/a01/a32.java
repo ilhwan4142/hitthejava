@@ -1,6 +1,6 @@
 package a01;
 
-//32¹ø
+//32ë²ˆ
 
 public class a32 {
 
@@ -11,11 +11,11 @@ public class a32 {
 		double latitude2=35.13;	
 		double longitude2=129.04;
 		System.out.println(latitude1+"\t"+longitude1);
-		//1Â÷¿ø ¹è¿­
+		//1ì°¨ì› ë°°ì—´
 		double[] latlon1= {latitude1,longitude1};
 		double[] latlon2= {latitude2,longitude2};
 		System.out.println(latlon1[0]+"\t"+latlon1[1]);
-		//2Â÷¿ø ¹è¿­
+		//2ì°¨ì› ë°°ì—´
 		double[][] latlon= {{latitude1,longitude1},{latitude2,longitude2}};
 		System.out.println(latlon[0][0]+"\t"+latlon[0][1]);
 	}
