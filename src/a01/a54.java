@@ -1,6 +1,6 @@
 package a01;
-//53번
-public class a53 {
+//54번
+public class a54 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
