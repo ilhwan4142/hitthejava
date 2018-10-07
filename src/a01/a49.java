@@ -1,3 +1,4 @@
+package a01;
 
 public class a49 {
 	public static Boolean isPrime(int a) { //에라토스테네스의 체 법칙을 알게 되었다.
